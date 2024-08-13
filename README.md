@@ -1,3 +1,4 @@
+https://mosnad-web01.github.io/Abdulmajeed-phase-0-intro-to-js-2-looping-code-along/
 # Looping Lab
 
 ## Learning Goals
